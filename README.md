@@ -123,6 +123,9 @@ Type a message when prompted, and the bot will respond with a relevant answer.
 
 **Screenshot Preview**
 
+![Image](https://github.com/user-attachments/assets/41fee70a-85c9-4efc-a8a3-64430a5b8ff1)
+
+---
 
 ## 🧠 NLP Components Used
 
