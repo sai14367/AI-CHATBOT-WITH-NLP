@@ -16,19 +16,19 @@
 
 ---
 
-## 📘 Project Description
+##  Project Description
 
 This project is focused on building a basic AI chatbot using Natural Language Processing (NLP) with the help of libraries like NLTK and spaCy. The chatbot is designed to simulate conversation with users, answering queries based on pre-trained language models and defined intents. It serves as a practical introduction to NLP and chatbot development for educational and prototype-level use cases.
 
 ---
 
-## 🔍 Problem Statement
+##  Problem Statement
 
 Conversational AI has become essential in enhancing user engagement across various domains such as customer service, education, and healthcare. However, building a chatbot from scratch can be overwhelming for beginners. This project simplifies that process by using Python and NLP libraries to create a rule-based chatbot capable of responding to common queries.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Understand the fundamentals of NLP and chatbot design
 * Train a chatbot on basic intents using Python libraries
@@ -38,7 +38,7 @@ Conversational AI has become essential in enhancing user engagement across vario
 
 ---
 
-## ⚙️ Key Features
+##  Key Features
 
 * Text-based interaction with users via the terminal
 * Predefined intents and responses for common conversation flows
@@ -48,7 +48,7 @@ Conversational AI has become essential in enhancing user engagement across vario
 
 ---
 
-## 📚 Technologies Used
+##  Technologies Used
 
 * **Python 3.7+**
 * **NLTK** (Natural Language Toolkit) for NLP
@@ -57,7 +57,7 @@ Conversational AI has become essential in enhancing user engagement across vario
 
 ---
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 AI_Chatbot_NLP/
@@ -68,7 +68,7 @@ AI_Chatbot_NLP/
 
 ---
 
-## 🚀 Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone the Repository
 
@@ -95,7 +95,7 @@ Type a message when prompted, and the bot will respond with a relevant answer.
 
 ---
 
-## 🔢 Example Intents (in `intents.json`)
+##  Example Intents (in `intents.json`)
 
 ```json
 {
@@ -121,13 +121,13 @@ Type a message when prompted, and the bot will respond with a relevant answer.
 
 ---
 
-**Screenshot Preview**
+##  Screenshot Preview
 
 ![Image](https://github.com/user-attachments/assets/41fee70a-85c9-4efc-a8a3-64430a5b8ff1)
 
 ---
 
-## 🧠 NLP Components Used
+##  NLP Components Used
 
 * **Tokenization**: Splitting user sentences into words
 * **Lemmatization**: Reducing words to their root form
@@ -136,16 +136,16 @@ Type a message when prompted, and the bot will respond with a relevant answer.
 
 ---
 
-## 🧪 Sample Use Cases
+##  Sample Use Cases
 
-* 🧑‍🏫 **Education**: Students can explore NLP concepts hands-on
-* 💬 **Customer Service Simulation**: Simple automated support chatbot
-* 🧠 **NLP Learning**: Demonstrates text preprocessing and classification
-* 🤖 **Prototyping**: Quick demo for AI assistant concepts
+*  **Education**: Students can explore NLP concepts hands-on
+*  **Customer Service Simulation**: Simple automated support chatbot
+*  **NLP Learning**: Demonstrates text preprocessing and classification
+*  **Prototyping**: Quick demo for AI assistant concepts
 
 ---
 
-## 🎓 Learning Outcomes
+##  Learning Outcomes
 
 * Understand NLP building blocks using NLTK and spaCy
 * Learn how to structure JSON files for chatbot intents
@@ -155,7 +155,7 @@ Type a message when prompted, and the bot will respond with a relevant answer.
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 
 * Rule-based only; not trained on deep learning models
 * Cannot handle complex or ambiguous queries
@@ -165,7 +165,7 @@ Type a message when prompted, and the bot will respond with a relevant answer.
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 * Use Transformer-based models like BERT or GPT
 * Add GUI using Tkinter or Streamlit
@@ -176,7 +176,7 @@ Type a message when prompted, and the bot will respond with a relevant answer.
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome and appreciated! If you'd like to contribute:
 
@@ -187,7 +187,7 @@ Contributions are welcome and appreciated! If you'd like to contribute:
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 * **NLTK and spaCy Teams** — for the powerful NLP tools
 * **The Open Source Community** — for knowledge sharing
@@ -195,7 +195,7 @@ Contributions are welcome and appreciated! If you'd like to contribute:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Masanam Venkata Sai Kumar**
 [LinkedIn Profile](https://www.linkedin.com/in/venkata-sai-kumar-masanam-56458a27b)
